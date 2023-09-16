@@ -29,7 +29,7 @@ This notebook demonstrates how to use Amazon SageMaker's Automated Hyperparamete
   - Evaluate the best candidate
   - Inspect the processed output data
 
-[View Notebook](#)
+[View Notebook](https://github.com/gambiTarun/SageMaker-ML-Workflows-Automated-Tuning-A-B-Testing-Human-in-the-Loop/blob/main/1_Model_Tuning.ipynb)
 
 ## A/B Testing, Traffic Shifting, and Autoscaling
 
@@ -48,7 +48,7 @@ This notebook explains how to set up an endpoint with multiple variants in Amazo
 - Shift the traffic to one variant and review the endpoint performance metrics
 - Configure one variant to autoscale
 
-[View Notebook](#)
+[View Notebook](https://github.com/gambiTarun/SageMaker-ML-Workflows-Automated-Tuning-A-B-Testing-Human-in-the-Loop/blob/main/2_Model_Scaling.ipynb)
 
 ## Data Labeling and Human-in-the-Loop Pipelines with Amazon Augmented AI (A2I)
 
@@ -72,7 +72,7 @@ Learn how to use Amazon A2I to create your human review workflows for machine le
   - Verify that the human loops were completed by the workforce
   - View human labels and prepare the data for re-training
 
-[View Notebook](#)
+[View Notebook](https://github.com/gambiTarun/SageMaker-ML-Workflows-Automated-Tuning-A-B-Testing-Human-in-the-Loop/blob/main/3_Human_In_The_Loop.ipynb)
 
 ## Installation & Setup
 
@@ -89,4 +89,3 @@ pip install -r requirements.txt
 Feel free to contribute to this project by submitting pull requests or issues.
 
 [Back to Top](#table-of-contents)
-```
